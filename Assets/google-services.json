@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431665202852",
+    "project_id": "cutman-3d",
+    "storage_bucket": "cutman-3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431665202852:android:14f17affa1d8a9036fc831",
+        "android_client_info": {
+          "package_name": "com.AlphaNova.Cutman3D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431665202852-8rkpof6nm24db90lqafeu3hqj92101gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClxSZiNarY9yQAWPnLNFIdSylcgl9-i_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431665202852-8rkpof6nm24db90lqafeu3hqj92101gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
